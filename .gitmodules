@@ -1,0 +1,3 @@
+[submodule "lib/dash7-ap-open-source-stack"]
+	path = lib/dash7-ap-open-source-stack
+	url = https://github.com/MOSAIC-LoPoW/dash7-ap-open-source-stack.git
